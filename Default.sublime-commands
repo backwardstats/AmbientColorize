@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "AmbientColorize: Toggle",
+        "command": "ambient_colorize"
+    }
+]
